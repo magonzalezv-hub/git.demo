@@ -7,3 +7,9 @@ This is the first file in this repo.
 Here are the files in the website
 
 1.index.html
+
+##More Ipsum
+
+un poco mas de texto 
+para ver que onda
+con esto del git
